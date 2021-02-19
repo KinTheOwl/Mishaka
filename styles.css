@@ -69,11 +69,11 @@ p {
   text-align: left;
   color: ivory;
 }
-.img {
+.center1 {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 40%;
+  width: 100%;
 }
 .arrow {
   border: solid black;
