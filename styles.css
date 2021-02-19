@@ -46,7 +46,7 @@ p {
   overflow: hidden;
 }
 
-.禁断のフクロウ {
+.none {
   background-image: url("purpleorchard");
   background-repeat: repeat;
   animation: marquee 30s infinite linear;
@@ -54,6 +54,12 @@ p {
 .about {
   /* background-image: url("farmbreeze.png"); */
   background-color: maroon;
+  text-align: left;
+  color: ivory;
+}
+.禁断のフクロウ {
+  /* background-image: url("purpleorchard"); */
+  background-color: purple;
   text-align: left;
   color: ivory;
 }
