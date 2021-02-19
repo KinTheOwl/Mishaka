@@ -46,8 +46,8 @@ p {
   overflow: hidden;
 }
 
-.background {
-  background-image: url("gamfroge.gif");
+.禁断のフクロウ {
+  background-image: url("purpleorchard");
   background-repeat: repeat;
   animation: marquee 30s infinite linear;
 }
