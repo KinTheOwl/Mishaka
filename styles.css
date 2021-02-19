@@ -59,7 +59,7 @@ p {
 }
 .forbiddinowl {
   background-image: url("purpleorchard.png");
-  background-color: purple;
+  background-color: #cccccc;
   text-align: left;
   color: ivory;
 }
@@ -104,7 +104,4 @@ p {
 
 iframe {
   width: 100%;
-}
-.forbiddinowl {
-Background-Image: purpleorchard; 
 }
