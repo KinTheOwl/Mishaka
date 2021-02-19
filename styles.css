@@ -59,13 +59,19 @@ p {
 }
 .forbiddinowl {
   background-image: url(Purple.png);
-  background-color: #cccccc;
+  background-color: purple;
   text-align: left;
   color: ivory;
 }
 .gone {
   /* background-image: url("purpleorchard.png"); */
   background-color: black;
+  text-align: left;
+  color: ivory;
+}
+.main {
+  background-image: url(Frostbite.png);
+  background-color: gray;
   text-align: left;
   color: ivory;
 }
