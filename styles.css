@@ -63,6 +63,12 @@ p {
   text-align: left;
   color: ivory;
 }
+.gone {
+  /* background-image: url("purpleorchard.png"); */
+  background-color: black;
+  text-align: left;
+  color: ivory;
+}
 .img {
   display: block;
   margin-left: auto;
