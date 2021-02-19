@@ -51,9 +51,9 @@ p {
   background-repeat: repeat;
   animation: marquee 30s infinite linear;
 }
-.farmbreeze {
+.about {
   /* background-image: url("farmbreeze.png"); */
-  background-color: green;
+  background-color: maroon;
   text-align: left;
   color: ivory;
 }
