@@ -47,7 +47,7 @@ p {
 }
 
 .none {
-  background-image: url("purpleorchard.");
+  background-image: url("none");
   background-repeat: repeat;
   animation: marquee 30s infinite linear;
 }
