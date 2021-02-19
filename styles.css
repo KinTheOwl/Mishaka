@@ -52,7 +52,7 @@ p {
   animation: marquee 30s infinite linear;
 }
 .about {
-  /* background-image: url("farmbreeze.png"); */
+  background-image: url(Blood.png);
   background-color: maroon;
   text-align: left;
   color: ivory;
