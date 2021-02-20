@@ -45,11 +45,11 @@ p {
   display: block;
   overflow: hidden;
 }
-
-.none {
-  background-image: url("none");
-  background-repeat: repeat;
-  animation: marquee 30s infinite linear;
+.news {
+  background-image: url(News.png);
+  background-color: beige;
+  text-align: left;
+  color: ivory;
 }
 .about {
   background-image: url(Blood.png);
@@ -87,13 +87,6 @@ p {
   margin-right: auto;
   width: 30%;
 }
-.arrow {
-  border: solid black;
-  border-width: 0 3px 3px 0;
-  display: inline-block;
-  padding: 3px;
-}
-
 .right {
   transform: rotate(-45deg);
   -webkit-transform: rotate(-45deg);
