@@ -69,6 +69,12 @@ p {
   text-align: left;
   color: ivory;
 }
+.signal {
+  background-image: url(Signal.png);
+  background-color: green;
+  text-align: left;
+  color: ivory;
+}
 .main {
   background-image: url(Frostbite.png);
   background-color: gray;
