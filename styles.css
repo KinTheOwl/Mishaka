@@ -75,6 +75,12 @@ p {
   text-align: left;
   color: ivory;
 }
+.other {
+  background-image: url(Other.png);
+  background-color: gray;
+  text-align: left;
+  color: ivory;
+}
 .center1 {
   display: block;
   margin-left: auto;
