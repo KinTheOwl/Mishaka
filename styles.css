@@ -66,7 +66,7 @@ p {
 .splash {
   background-image: url(Splash.png);
   background-color: gray;
-  text-align: center;
+  text-align: left;
   color: ivory;
 }
 .gone {
