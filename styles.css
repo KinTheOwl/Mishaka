@@ -63,6 +63,12 @@ p {
   text-align: left;
   color: ivory;
 }
+.splash {
+  background-image: url(Splash.png);
+  background-color: gray;
+  text-align: center;
+  color: ivory;
+}
 .gone {
   /* background-image: url("purpleorchard.png"); */
   background-color: black;
