@@ -113,9 +113,9 @@ p {
 }
 .Substationimage {
   display: block;
-  margin-left: auto;
-  margin-right: no;
-  width: 30%;
+  margin-left: no;
+  margin-right: auto;
+  width: 20%;
 }
 .right {
   transform: rotate(-45deg);
