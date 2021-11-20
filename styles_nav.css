@@ -1,7 +1,7 @@
 ul {
   font-family: 'Courier New', monospace;
   text-align: left;
-  background: rgba(41.2, 41.2, 41.2, 0.6);
+  background-color: rgba(41.2, 41.2, 41.2, 0.6);
   font-size: 25px;
   color: #696969;
 }
