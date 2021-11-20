@@ -1,4 +1,8 @@
 ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
   font-family: 'Courier New', monospace;
   text-align: left;
   background-color: rgba(41.2, 41.2, 41.2, 0.6);
