@@ -82,14 +82,14 @@ p {
   color: ivory;
 }
 .main {
-  body { 
  font-family: 'Courier New', monospace;
  color: #FFFFF0;
  background-image: url("https://github.com/KinTheOwl/Frostbite-Logistics/blob/gh-pages/Frostbite.png?raw=true");
  background-color: #008080;
  background-size: cover;
  background-repeat: no-repeat;
-  background-attachment: fixed;
+ background-attachment: fixed;
+ text-align: center;
 }
 .other {
   background-image: url(Pages.png);
