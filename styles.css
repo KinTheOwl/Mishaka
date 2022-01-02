@@ -118,15 +118,6 @@ p {
   margin-right: auto;
   width: 30%;
 }
-body { 
- font-family: 'Courier New', monospace;
- color: #FFFFF0;
- background-image: url("https://github.com/KinTheOwl/Mishaka/blob/gh-pages/Splash.png?raw=true");
- background-color: 24133F;
- background-size: cover;
- background-repeat: no-repeat;
-  background-attachment: fixed;
-}
   .center2 {
   display: block;
   margin-left: auto;
