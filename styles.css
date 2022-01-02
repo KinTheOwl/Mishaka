@@ -64,10 +64,13 @@ p {
   color: ivory;
 }
 .splash {
-  background-image: url(Splash.png);
-  background-color: gray;
-  text-align: left;
-  color: ivory;
+ font-family: 'Courier New', monospace;
+ color: #FFFFF0;
+ background-image: url("https://github.com/KinTheOwl/Mishaka/blob/gh-pages/Splash.png?raw=true");
+ background-color: 24133F;
+ background-size: cover;
+ background-repeat: no-repeat;
+  background-attachment: fixed;
 }
 .gone {
   /* background-image: url("purpleorchard.png"); */
